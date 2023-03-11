@@ -1,0 +1,132 @@
+
+3-1.png
+size: 836,604
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+House
+  rotate: false
+  xy: 2, 2
+  size: 797, 598
+  orig: 799, 600
+  offset: 1, 1
+  index: -1
+book
+  rotate: false
+  xy: 801, 240
+  size: 8, 12
+  orig: 10, 14
+  offset: 1, 1
+  index: -1
+box-1
+  rotate: false
+  xy: 801, 568
+  size: 31, 32
+  orig: 33, 34
+  offset: 1, 1
+  index: -1
+box-2
+  rotate: false
+  xy: 801, 534
+  size: 31, 32
+  orig: 33, 34
+  offset: 1, 1
+  index: -1
+c1-arm-l
+  rotate: false
+  xy: 801, 223
+  size: 7, 15
+  orig: 9, 17
+  offset: 1, 1
+  index: -1
+c1-arm-r
+  rotate: false
+  xy: 801, 254
+  size: 8, 16
+  orig: 10, 18
+  offset: 1, 1
+  index: -1
+c1-body
+  rotate: true
+  xy: 801, 355
+  size: 15, 12
+  orig: 19, 14
+  offset: 3, 1
+  index: -1
+c1-head
+  rotate: false
+  xy: 801, 504
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+c1-leg
+  rotate: false
+  xy: 801, 320
+  size: 11, 15
+  orig: 13, 17
+  offset: 1, 1
+  index: -1
+c1-leg-r
+  rotate: false
+  xy: 801, 303
+  size: 11, 15
+  orig: 13, 17
+  offset: 1, 1
+  index: -1
+c2-arm-l
+  rotate: true
+  xy: 801, 272
+  size: 12, 11
+  orig: 14, 13
+  offset: 1, 1
+  index: -1
+c2-arm-r
+  rotate: true
+  xy: 801, 389
+  size: 17, 13
+  orig: 19, 15
+  offset: 1, 1
+  index: -1
+c2-body
+  rotate: true
+  xy: 801, 372
+  size: 15, 13
+  orig: 19, 15
+  offset: 3, 1
+  index: -1
+c2-head
+  rotate: false
+  xy: 801, 474
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+c2-leg
+  rotate: false
+  xy: 801, 286
+  size: 11, 15
+  orig: 13, 17
+  offset: 1, 1
+  index: -1
+c2-leg-r
+  rotate: false
+  xy: 801, 337
+  size: 11, 16
+  orig: 13, 18
+  offset: 1, 1
+  index: -1
+shadow-1
+  rotate: true
+  xy: 801, 441
+  size: 31, 18
+  orig: 33, 20
+  offset: 1, 1
+  index: -1
+shadow-2
+  rotate: true
+  xy: 801, 408
+  size: 31, 18
+  orig: 33, 20
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,90 @@
+
+ricardo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: true
+  xy: 449, 147
+  size: 105, 79
+  orig: 105, 79
+  offset: 0, 0
+  index: -1
+arm-r
+  rotate: true
+  xy: 527, 55
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 443, 10
+  size: 82, 109
+  orig: 82, 109
+  offset: 0, 0
+  index: -1
+coat
+  rotate: false
+  xy: 2, 13
+  size: 159, 104
+  orig: 159, 104
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2, 119
+  size: 293, 133
+  orig: 293, 133
+  offset: 0, 0
+  index: -1
+hand-b
+  rotate: true
+  xy: 163, 2
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 297, 121
+  size: 131, 150
+  orig: 131, 150
+  offset: 0, 0
+  index: -1
+leg-l
+  rotate: true
+  xy: 530, 194
+  size: 58, 134
+  orig: 58, 134
+  offset: 0, 0
+  index: -1
+leg-r
+  rotate: true
+  xy: 318, 34
+  size: 85, 123
+  orig: 85, 123
+  offset: 0, 0
+  index: -1
+sleeve-l
+  rotate: true
+  xy: 163, 42
+  size: 75, 153
+  orig: 75, 153
+  offset: 0, 0
+  index: -1
+sleeve-r
+  rotate: true
+  xy: 527, 11
+  size: 42, 135
+  orig: 42, 135
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 618, 111
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1

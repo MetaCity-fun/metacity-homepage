@@ -1,0 +1,56 @@
+{
+  "app-title": "MetaCity - 1st IDLE game on blockchain",
+  "home": "Home",
+
+  "Contract-Address": "Contract Address",
+
+  "footer": {
+    "Developed by": "Developed by",
+    "Copyright": "Copyright MetaCity 2022.",
+    "reserved": "All rights reserved."
+  },
+
+  "navigations": {
+    "Home": "Home",
+    "News": "News",
+    "Features": "Features",
+    "NFT Items": "NFT Items",
+    "MTC Tokens": "MTC Token",
+    "Roadmap": "Roadmap",
+    "Investor": "Investor",
+    "Partner": "Partner"
+  },
+
+  "section2-title": "THE FIRST IDLE GAME ON BLOCKCHAIN",
+  "section2-subtitle": "MetaCity is a blockchain based game which allows you to form your gang, build business in the city. Be an early bird, acquire power, spread your notoriety and rule the world now.",
+
+  "section3-title": "LATEST NEWS",
+
+  "section4-title": "FEATURES",
+
+  "section5-title": "HUNTERS",
+
+  "section6-title": "BUILDINGS",
+
+  "section7-title": "WHAT IS MTC",
+  "section7-subtitle": "MTC token is our only currency which can be achieved by playing game and participating in many other activities",
+  "section7-PLAY-TO-EARN": "PLAY AND EARN",
+  "section7-STAKING": "STAKING",
+  "section7-MARKETPLACE": "MARKETPLACE",
+  "section7-NFT-OFFERING": "NFT OFFERING",
+
+  "section8-title": "MEET THE TEAM",
+
+  "section9-title": "ROADMAP",
+
+  "section10-title": "INVESTORS",
+
+  "section11-title": "PARTNERS",
+
+  "SECURED-BY": "SECURED BY",
+
+  "TOKENOMICS": "TOKENOMICS",
+  "HOW-TO-BUY": "HOW TO BUY",
+  "AS-SEEN-ON": "AS SEEN ON",
+  "FAQ": "FAQ"
+}

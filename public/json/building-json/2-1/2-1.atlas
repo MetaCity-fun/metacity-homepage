@@ -1,0 +1,118 @@
+
+2-1.png
+size: 860,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1-arm-l
+  rotate: false
+  xy: 801, 88
+  size: 7, 14
+  orig: 9, 16
+  offset: 1, 1
+  index: -1
+c1-arm-r
+  rotate: false
+  xy: 801, 104
+  size: 9, 16
+  orig: 11, 18
+  offset: 1, 1
+  index: -1
+c1-body
+  rotate: false
+  xy: 801, 184
+  size: 17, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+c1-head
+  rotate: false
+  xy: 801, 330
+  size: 27, 27
+  orig: 29, 29
+  offset: 1, 1
+  index: -1
+c1-head copy
+  rotate: false
+  xy: 801, 392
+  size: 30, 33
+  orig: 32, 35
+  offset: 1, 1
+  index: -1
+c1-leg-l
+  rotate: false
+  xy: 801, 139
+  size: 11, 15
+  orig: 13, 17
+  offset: 1, 1
+  index: -1
+c1-leg-r
+  rotate: false
+  xy: 801, 122
+  size: 11, 15
+  orig: 13, 17
+  offset: 1, 1
+  index: -1
+c2-arm-l
+  rotate: false
+  xy: 801, 156
+  size: 12, 26
+  orig: 14, 28
+  offset: 1, 1
+  index: -1
+c2-arm-r
+  rotate: false
+  xy: 801, 237
+  size: 17, 32
+  orig: 19, 34
+  offset: 1, 1
+  index: -1
+c2-body
+  rotate: true
+  xy: 801, 359
+  size: 31, 28
+  orig: 33, 30
+  offset: 1, 1
+  index: -1
+c2-head
+  rotate: true
+  xy: 801, 490
+  size: 59, 56
+  orig: 61, 58
+  offset: 1, 1
+  index: -1
+c2-leg-l
+  rotate: false
+  xy: 801, 300
+  size: 22, 28
+  orig: 24, 30
+  offset: 1, 1
+  index: -1
+c2-leg-r
+  rotate: false
+  xy: 801, 271
+  size: 22, 27
+  orig: 24, 29
+  offset: 1, 1
+  index: -1
+house
+  rotate: false
+  xy: 2, 2
+  size: 797, 547
+  orig: 799, 549
+  offset: 1, 1
+  index: -1
+shadow copy
+  rotate: true
+  xy: 801, 427
+  size: 61, 33
+  orig: 63, 35
+  offset: 1, 1
+  index: -1
+shadow-1
+  rotate: true
+  xy: 801, 204
+  size: 31, 17
+  orig: 33, 19
+  offset: 1, 1
+  index: -1

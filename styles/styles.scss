@@ -1,0 +1,171 @@
+@import "node_modules/@glidejs/glide/src/assets/sass/glide.core";
+
+html {
+  scroll-behavior: smooth;
+
+  @apply scroll-pt-28 sm:scroll-pt-[140px] 2xl:scroll-pt-[280px];
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+html::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+html {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.MoneyDropAnimation .set {
+  @apply absolute inset-0;
+  pointer-events: none;
+}
+.MoneyDropAnimation .set .set__item {
+  position: absolute;
+  display: block;
+  opacity: 0;
+  animation: animate 190s linear infinite;
+}
+@keyframes animate {
+  0% {
+    opacity: 0;
+    top: 0px;
+    transform: translateX(0) rotate(0deg);
+  }
+  3% {
+    opacity: 1;
+  }
+  20% {
+    transform: translateX(140px) rotate(180deg);
+  }
+  40% {
+    transform: translateX(-140px) rotate(360deg);
+  }
+  60% {
+    transform: translateX(140px) rotate(540deg);
+  }
+  80% {
+    transform: translateX(-140px) rotate(720deg);
+  }
+  95% {
+    opacity: 1;
+  }
+  100% {
+    top: 98%;
+    opacity: 0;
+    transform: translateX(0px) rotate(900deg);
+  }
+}
+
+// ==============================
+
+.nc_add_anim_float {
+  transform: translatey(0px);
+  -webkit-animation: float 6s ease-in-out infinite;
+  animation: float 6s ease-in-out infinite;
+  @apply will-change-transform;
+}
+
+@-webkit-keyframes float {
+  0% {
+    transform: translatey(0px);
+  }
+  50% {
+    transform: translatey(-20px);
+  }
+  100% {
+    transform: translatey(0px);
+  }
+}
+@keyframes float {
+  0% {
+    transform: translatey(0px);
+  }
+  50% {
+    transform: translatey(-20px);
+  }
+  100% {
+    transform: translatey(0px);
+  }
+}
+
+// ==============================
+.glide__slides {
+  overflow: unset !important;
+}
+
+// Section5Gangters
+.Section5Gangters-glidejs-slide {
+  .glide__slide {
+    @apply brightness-[0.65] flex items-center justify-end xl:justify-center;
+    > div {
+      max-width: 145px;
+    }
+  }
+  .glide__slide.my-glide__slide--active {
+    @apply brightness-100;
+    @apply justify-center #{!important};
+    > div {
+      max-width: unset;
+    }
+  }
+
+  .my-glide__slide--active ~ .glide__slide {
+    @apply justify-start xl:justify-center;
+  }
+}
+
+// Section6Buildings
+.Section6Buildings-glidejs-slide {
+  .glide__slide {
+    @apply brightness-[0.6] flex justify-center xl:justify-start;
+    > div {
+      @apply max-w-[180px] xl:max-w-none;
+
+      // @apply w-[130px] md:w-[150px] xl:w-[130px];;
+    }
+  }
+  .glide__slide.my-glide__slide--active {
+    @apply brightness-100;
+
+    > div {
+      max-width: unset;
+      // @apply w-full  #{!important};
+    }
+  }
+
+  .my-glide__slide--active ~ .glide__slide {
+    @apply flex justify-center xl:justify-end;
+  }
+}
+
+//
+.header-not-on-top {
+  background: linear-gradient(
+    180deg,
+    rgba(41, 23, 80, 0.85) 0%,
+    rgba(41, 23, 80, 0.95) 100%
+  );
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2), inset 0px -2px 0px #523181;
+}
+
+.contract-not-on-top {
+  background: rgba(21, 14, 44, 0.95) !important;
+}
+
+//
+.header-bandPng-container {
+  @apply xl:-bottom-16 2xl:-bottom-10 3xl:-bottom-0;
+  @media (min-width: 1024px) and (max-width: 1400px) {
+    @apply -bottom-[100px];
+  }
+}
+
+//
+.SectionHowToBuy,
+.SectionFAQ__item {
+  a {
+    @apply text-[#15D5FF] hover:opacity-70;
+  }
+}

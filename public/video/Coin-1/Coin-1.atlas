@@ -1,0 +1,41 @@
+
+Coin-1.png
+size: 552,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dots
+  rotate: true
+  xy: 361, 2
+  size: 119, 94
+  orig: 120, 96
+  offset: 0, 1
+  index: -1
+dots2
+  rotate: true
+  xy: 254, 6
+  size: 115, 105
+  orig: 116, 106
+  offset: 1, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 2
+  size: 121, 119
+  orig: 125, 123
+  offset: 2, 2
+  index: -1
+streak-
+  rotate: true
+  xy: 125, 23
+  size: 98, 127
+  orig: 105, 136
+  offset: 3, 4
+  index: -1
+token
+  rotate: true
+  xy: 457, 23
+  size: 98, 91
+  orig: 99, 98
+  offset: 0, 3
+  index: -1

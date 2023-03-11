@@ -1,0 +1,139 @@
+
+karina.png
+size: 404,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+antena
+  rotate: false
+  xy: 188, 347
+  size: 176, 55
+  orig: 176, 55
+  offset: 0, 0
+  index: -1
+arm-l
+  rotate: true
+  xy: 2, 8
+  size: 24, 76
+  orig: 24, 76
+  offset: 0, 0
+  index: -1
+arm-r
+  rotate: false
+  xy: 347, 271
+  size: 38, 74
+  orig: 38, 74
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 123, 48
+  size: 70, 107
+  orig: 70, 107
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 343, 92
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1
+foot-l
+  rotate: true
+  xy: 347, 229
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+foot-r
+  rotate: false
+  xy: 195, 13
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+forearm-l
+  rotate: false
+  xy: 123, 2
+  size: 70, 44
+  orig: 70, 44
+  offset: 0, 0
+  index: -1
+forearm-r
+  rotate: false
+  xy: 296, 22
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 157
+  size: 184, 245
+  orig: 184, 245
+  offset: 0, 0
+  index: -1
+hair-f
+  rotate: false
+  xy: 2, 34
+  size: 119, 121
+  orig: 119, 121
+  offset: 0, 0
+  index: -1
+hair-l
+  rotate: false
+  xy: 332, 20
+  size: 25, 70
+  orig: 25, 70
+  offset: 0, 0
+  index: -1
+hair-l-2
+  rotate: false
+  xy: 287, 214
+  size: 58, 131
+  orig: 58, 131
+  offset: 0, 0
+  index: -1
+hair-r
+  rotate: true
+  xy: 283, 165
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 188, 220
+  size: 97, 125
+  orig: 97, 125
+  offset: 0, 0
+  index: -1
+headphone
+  rotate: false
+  xy: 296, 94
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+leg-l
+  rotate: false
+  xy: 243, 60
+  size: 51, 99
+  orig: 51, 99
+  offset: 0, 0
+  index: -1
+leg-r
+  rotate: true
+  xy: 188, 161
+  size: 57, 93
+  orig: 57, 93
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 195, 54
+  size: 105, 46
+  orig: 105, 46
+  offset: 0, 0
+  index: -1

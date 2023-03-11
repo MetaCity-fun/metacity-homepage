@@ -1,0 +1,139 @@
+
+ebru.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: true
+  xy: 627, 163
+  size: 91, 103
+  orig: 91, 103
+  offset: 0, 0
+  index: -1
+arm-r
+  rotate: false
+  xy: 204, 6
+  size: 98, 84
+  orig: 98, 84
+  offset: 0, 0
+  index: -1
+backpack
+  rotate: false
+  xy: 447, 13
+  size: 138, 123
+  orig: 138, 123
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 497, 162
+  size: 92, 128
+  orig: 92, 128
+  offset: 0, 0
+  index: -1
+eyeball-l
+  rotate: false
+  xy: 2, 2
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+eyeball-r
+  rotate: true
+  xy: 91, 4
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+eyelid-l
+  rotate: true
+  xy: 394, 7
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+eyelid-r
+  rotate: false
+  xy: 40, 4
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 304, 51
+  size: 132, 39
+  orig: 132, 39
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 316, 138
+  size: 116, 179
+  orig: 116, 179
+  offset: 0, 0
+  index: -1
+hair-b
+  rotate: true
+  xy: 164, 92
+  size: 162, 150
+  orig: 162, 150
+  offset: 0, 0
+  index: -1
+head-a
+  rotate: true
+  xy: 2, 78
+  size: 176, 160
+  orig: 176, 160
+  offset: 0, 0
+  index: -1
+headwear
+  rotate: false
+  xy: 587, 19
+  size: 137, 141
+  orig: 137, 141
+  offset: 0, 0
+  index: -1
+leg-l
+  rotate: true
+  xy: 304, 3
+  size: 46, 88
+  orig: 46, 88
+  offset: 0, 0
+  index: -1
+leg-r
+  rotate: false
+  xy: 122, 4
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+pupil-l
+  rotate: true
+  xy: 70, 3
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+pupil-r
+  rotate: true
+  xy: 104, 8
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 2, 25
+  size: 118, 51
+  orig: 118, 51
+  offset: 0, 0
+  index: -1
+tie
+  rotate: true
+  xy: 422, 23
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1

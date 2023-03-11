@@ -1,0 +1,53 @@
+{
+  "app-title": "MetaCity - 1st IDLE game on blockchain",
+  "home": "Trang chủ",
+
+  "Contract-Address": "Địa chỉ hợp đồng",
+
+  "footer": {
+    "Developed by": "Phát triển bởi",
+    "Copyright": "Bản quyền MetaCity 2022.",
+    "reserved": "Tất cả các quyền được bảo lưu."
+  },
+
+  "navigations": {
+    "Home": "Trang chủ",
+    "News": "Tin tức",
+    "Features": "Tính năng",
+    "NFT Items": "NFT Items",
+    "MTC Tokens": "MTC Token",
+    "Roadmap": "Lộ trình",
+    "Investor": "Nhà đầu tư",
+    "Partner": "Đối tác"
+  },
+
+  "section2-title": "TRÒ CHƠI Ý TƯỞNG ĐẦU TIÊN TRÊN BLOCKCHAIN",
+  "section2-subtitle": "MetaCity là một trò chơi trên blockchain được xây dựng cho bạn để tạo nhóm, xây dựng công việc trong thành phố. Hãy là người đầu tiên, đầu tư, tăng cường tính cách, tăng thuế, quản lý thế giới ngay bây giờ.",
+
+  "section3-title": "TIN TỨC MỚI NHẤT",
+
+  "section4-title": "TÍNH NĂNG",
+
+  "section5-title": "THỢ SĂN",
+
+  "section6-title": "CÁC TÒA NHÀ",
+
+  "section7-title": "MTC LÀ GÌ",
+  "section7-subtitle": "Mã thông báo MTC là đơn vị tiền tệ duy nhất của chúng tôi có thể đạt được bằng cách chơi trò chơi và tham gia vào nhiều hoạt động khác",
+  "section7-PLAY-TO-EARN": "CHƠI ĐỂ KIẾM TIỀN",
+  "section7-STAKING": "ĐÁNH ĐẬP",
+  "section7-MARKETPLACE": "THƯƠNG TRƯỜNG",
+  "section7-NFT-OFFERING": "ƯU ĐÃI NFT",
+
+  "section8-title": "GẶP ĐỘI NHÓM",
+  "section9-title": "LỘ TRÌNH",
+  "section10-title": "NHÀ ĐẦU TƯ",
+  "section11-title": "ĐỐI TÁC",
+
+  "SECURED-BY": "ĐƯỢC ĐẢM BẢO BỞI",
+
+  "TOKENOMICS": "TOKENOMICS",
+  "HOW-TO-BUY": "LAM SAO ĐỂ MUA",
+  "AS-SEEN-ON": "NHƯ ĐƯỢC THẤY TRÊN",
+  "FAQ": "FAQ"
+}

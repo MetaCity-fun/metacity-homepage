@@ -1,0 +1,27 @@
+
+play.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+play
+  rotate: false
+  xy: 40, 297
+  size: 324, 80
+  orig: 326, 82
+  offset: 1, 1
+  index: -1
+play-bg
+  rotate: false
+  xy: 2, 179
+  size: 375, 116
+  orig: 377, 118
+  offset: 1, 1
+  index: -1
+s-1
+  rotate: true
+  xy: 2, 344
+  size: 33, 36
+  orig: 35, 38
+  offset: 1, 1
+  index: -1

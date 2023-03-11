@@ -1,0 +1,69 @@
+{
+"skeleton": {
+	"hash": "wRgwiCtJogySQG0xfcNO/qW0OgU",
+	"spine": "3.8.99",
+	"x": -233.12,
+	"y": -0.54,
+	"width": 466.14,
+	"height": 365.79,
+	"images": "./images/",
+	"audio": "D:/Metacas/Animation/3-2"
+},
+"bones": [
+	{ "name": "root", "scaleX": 0.5834, "scaleY": 0.5834 },
+	{ "name": "house", "parent": "root" },
+	{ "name": "car", "parent": "root", "x": 324.81, "y": 290.91 }
+],
+"slots": [
+	{ "name": "land", "bone": "house", "attachment": "land" },
+	{ "name": "car-1", "bone": "car", "attachment": "car-1" },
+	{ "name": "house", "bone": "house", "attachment": "house" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"car-1": {
+				"car-1": { "x": -7.06, "y": 19.38, "width": 140, "height": 118 },
+				"car-2": { "x": -0.04, "y": 19.38, "width": 51, "height": 118 }
+			},
+			"house": {
+				"house": { "x": 4.92, "y": 344.08, "width": 729, "height": 564 }
+			},
+			"land": {
+				"land": { "x": -0.08, "y": 196.58, "width": 799, "height": 395 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"car-1": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 5.4333, "color": "ffffffff" },
+					{ "time": 5.7667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 4.4333, "name": "car-2" },
+					{ "time": 6.6667, "name": "car-1" },
+					{ "time": 11.6667, "name": "car-1" }
+				]
+			}
+		},
+		"bones": {
+			"car": {
+				"translate": [
+					{},
+					{ "time": 2.2333, "x": -206.92, "y": -107.93, "curve": "stepped" },
+					{ "time": 4.4333, "x": -242.36, "y": -126.26 },
+					{ "time": 6.5667, "x": -242.36, "y": -305.35, "curve": "stepped" },
+					{ "time": 6.6667 }
+				]
+			}
+		}
+	}
+}
+}
